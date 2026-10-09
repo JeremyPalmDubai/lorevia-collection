@@ -1,0 +1,182 @@
+[
+  {
+    "lang": "en",
+    "index": -1,
+    "route": "/",
+    "title": "Lorévia Collection by DECA | Waterfront apartments in Al Zorah, Ajman"
+  },
+  {
+    "lang": "en",
+    "index": 0,
+    "route": "/studios-al-zorah-ajman/",
+    "title": "Studios in Al Zorah, Ajman"
+  },
+  {
+    "lang": "en",
+    "index": 1,
+    "route": "/one-bedroom-apartments-al-zorah-ajman/",
+    "title": "1 bedroom apartments in Al Zorah, Ajman"
+  },
+  {
+    "lang": "en",
+    "index": 2,
+    "route": "/two-bedroom-apartments-al-zorah-ajman/",
+    "title": "2 bedroom apartments in Al Zorah, Ajman"
+  },
+  {
+    "lang": "en",
+    "index": 3,
+    "route": "/payment-plan/",
+    "title": "Lorévia Collection payment plan"
+  },
+  {
+    "lang": "fr",
+    "index": -1,
+    "route": "/fr/investir-al-zorah-ajman/",
+    "title": "Lorévia Collection DECA | Investir à Al Zorah, Ajman"
+  },
+  {
+    "lang": "fr",
+    "index": 0,
+    "route": "/fr/studios-al-zorah-ajman/",
+    "title": "Studios à Al Zorah, Ajman"
+  },
+  {
+    "lang": "fr",
+    "index": 1,
+    "route": "/fr/appartements-1-chambre-al-zorah-ajman/",
+    "title": "Appartements 1 chambre à Al Zorah, Ajman"
+  },
+  {
+    "lang": "fr",
+    "index": 2,
+    "route": "/fr/appartements-2-chambres-al-zorah-ajman/",
+    "title": "Appartements 2 chambres à Al Zorah, Ajman"
+  },
+  {
+    "lang": "fr",
+    "index": 3,
+    "route": "/fr/plan-de-paiement/",
+    "title": "Plan de paiement Lorévia Collection"
+  },
+  {
+    "lang": "es",
+    "index": -1,
+    "route": "/es/comprar-desde-espana-al-zorah-ajman/",
+    "title": "Comprar desde España en Al Zorah, Ajman | Lorévia Collection"
+  },
+  {
+    "lang": "es",
+    "index": 0,
+    "route": "/es/estudios-al-zorah-ajman/",
+    "title": "Estudios en Al Zorah, Ajman"
+  },
+  {
+    "lang": "es",
+    "index": 1,
+    "route": "/es/apartamentos-1-dormitorio-al-zorah-ajman/",
+    "title": "Apartamentos de 1 dormitorio en Al Zorah, Ajman"
+  },
+  {
+    "lang": "es",
+    "index": 2,
+    "route": "/es/apartamentos-2-dormitorios-al-zorah-ajman/",
+    "title": "Apartamentos de 2 dormitorios en Al Zorah, Ajman"
+  },
+  {
+    "lang": "es",
+    "index": 3,
+    "route": "/es/plan-de-pago/",
+    "title": "Plan de pago de Lorévia Collection"
+  },
+  {
+    "lang": "nl",
+    "index": -1,
+    "route": "/nl/vastgoed-kopen-al-zorah-ajman/",
+    "title": "Vastgoed kopen in Al Zorah, Ajman | Lorévia Collection"
+  },
+  {
+    "lang": "nl",
+    "index": 0,
+    "route": "/nl/studios-al-zorah-ajman/",
+    "title": "Studio’s in Al Zorah, Ajman"
+  },
+  {
+    "lang": "nl",
+    "index": 1,
+    "route": "/nl/appartementen-1-slaapkamer-al-zorah-ajman/",
+    "title": "Appartementen met 1 slaapkamer in Al Zorah, Ajman"
+  },
+  {
+    "lang": "nl",
+    "index": 2,
+    "route": "/nl/appartementen-2-slaapkamers-al-zorah-ajman/",
+    "title": "Appartementen met 2 slaapkamers in Al Zorah, Ajman"
+  },
+  {
+    "lang": "nl",
+    "index": 3,
+    "route": "/nl/betalingsplan/",
+    "title": "Betalingsplan Lorévia Collection"
+  },
+  {
+    "lang": "de",
+    "index": -1,
+    "route": "/de/immobilien-kaufen-al-zorah-ajman/",
+    "title": "Immobilien in Al Zorah, Ajman kaufen | Lorévia Collection"
+  },
+  {
+    "lang": "de",
+    "index": 0,
+    "route": "/de/studios-al-zorah-ajman/",
+    "title": "Studios in Al Zorah, Ajman"
+  },
+  {
+    "lang": "de",
+    "index": 1,
+    "route": "/de/apartments-1-schlafzimmer-al-zorah-ajman/",
+    "title": "Apartments mit 1 Schlafzimmer in Al Zorah, Ajman"
+  },
+  {
+    "lang": "de",
+    "index": 2,
+    "route": "/de/apartments-2-schlafzimmer-al-zorah-ajman/",
+    "title": "Apartments mit 2 Schlafzimmern in Al Zorah, Ajman"
+  },
+  {
+    "lang": "de",
+    "index": 3,
+    "route": "/de/zahlungsplan/",
+    "title": "Zahlungsplan für Lorévia Collection"
+  },
+  {
+    "lang": "pt",
+    "index": -1,
+    "route": "/pt/comprar-imovel-al-zorah-ajman/",
+    "title": "Comprar imóvel em Al Zorah, Ajman | Lorévia Collection"
+  },
+  {
+    "lang": "pt",
+    "index": 0,
+    "route": "/pt/estudios-al-zorah-ajman/",
+    "title": "Estúdios em Al Zorah, Ajman"
+  },
+  {
+    "lang": "pt",
+    "index": 1,
+    "route": "/pt/apartamentos-1-quarto-al-zorah-ajman/",
+    "title": "Apartamentos de 1 quarto em Al Zorah, Ajman"
+  },
+  {
+    "lang": "pt",
+    "index": 2,
+    "route": "/pt/apartamentos-2-quartos-al-zorah-ajman/",
+    "title": "Apartamentos de 2 quartos em Al Zorah, Ajman"
+  },
+  {
+    "lang": "pt",
+    "index": 3,
+    "route": "/pt/plano-de-pagamento/",
+    "title": "Plano de pagamento Lorévia Collection"
+  }
+]

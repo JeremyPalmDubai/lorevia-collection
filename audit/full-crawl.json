@@ -1,0 +1,447 @@
+{
+  "pages_per_build": 30,
+  "checked_builds": [
+    "preview",
+    "release"
+  ],
+  "checks": [
+    "h1",
+    "unique titles",
+    "meta description",
+    "HTML language",
+    "internal links",
+    "fragment targets",
+    "zero outbound links",
+    "images and dimensions",
+    "JSON-LD parse",
+    "ARIA targets",
+    "canonical",
+    "7 reciprocal hreflang entries",
+    "release indexability",
+    "sitemaps",
+    "404 and permanent redirects"
+  ],
+  "results": [
+    {
+      "mode": "preview",
+      "route": "/",
+      "title": "Lorévia Collection by DECA | Waterfront apartments in Al Zorah, Ajman",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/studios-al-zorah-ajman/",
+      "title": "Studios in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/one-bedroom-apartments-al-zorah-ajman/",
+      "title": "1 bedroom apartments in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/two-bedroom-apartments-al-zorah-ajman/",
+      "title": "2 bedroom apartments in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/payment-plan/",
+      "title": "Lorévia Collection payment plan | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/fr/investir-al-zorah-ajman/",
+      "title": "Lorévia Collection DECA | Investir à Al Zorah, Ajman",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/fr/studios-al-zorah-ajman/",
+      "title": "Studios à Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/fr/appartements-1-chambre-al-zorah-ajman/",
+      "title": "Appartements 1 chambre à Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/fr/appartements-2-chambres-al-zorah-ajman/",
+      "title": "Appartements 2 chambres à Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/fr/plan-de-paiement/",
+      "title": "Plan de paiement Lorévia Collection | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/es/comprar-desde-espana-al-zorah-ajman/",
+      "title": "Comprar desde España en Al Zorah, Ajman | Lorévia Collection",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/es/estudios-al-zorah-ajman/",
+      "title": "Estudios en Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/es/apartamentos-1-dormitorio-al-zorah-ajman/",
+      "title": "Apartamentos de 1 dormitorio en Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/es/apartamentos-2-dormitorios-al-zorah-ajman/",
+      "title": "Apartamentos de 2 dormitorios en Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/es/plan-de-pago/",
+      "title": "Plan de pago de Lorévia Collection | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/nl/vastgoed-kopen-al-zorah-ajman/",
+      "title": "Vastgoed kopen in Al Zorah, Ajman | Lorévia Collection",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/nl/studios-al-zorah-ajman/",
+      "title": "Studio’s in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/nl/appartementen-1-slaapkamer-al-zorah-ajman/",
+      "title": "Appartementen met 1 slaapkamer in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/nl/appartementen-2-slaapkamers-al-zorah-ajman/",
+      "title": "Appartementen met 2 slaapkamers in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/nl/betalingsplan/",
+      "title": "Betalingsplan Lorévia Collection | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/de/immobilien-kaufen-al-zorah-ajman/",
+      "title": "Immobilien in Al Zorah, Ajman kaufen | Lorévia Collection",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/de/studios-al-zorah-ajman/",
+      "title": "Studios in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/de/apartments-1-schlafzimmer-al-zorah-ajman/",
+      "title": "Apartments mit 1 Schlafzimmer in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/de/apartments-2-schlafzimmer-al-zorah-ajman/",
+      "title": "Apartments mit 2 Schlafzimmern in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/de/zahlungsplan/",
+      "title": "Zahlungsplan für Lorévia Collection | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/pt/comprar-imovel-al-zorah-ajman/",
+      "title": "Comprar imóvel em Al Zorah, Ajman | Lorévia Collection",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/pt/estudios-al-zorah-ajman/",
+      "title": "Estúdios em Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/pt/apartamentos-1-quarto-al-zorah-ajman/",
+      "title": "Apartamentos de 1 quarto em Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/pt/apartamentos-2-quartos-al-zorah-ajman/",
+      "title": "Apartamentos de 2 quartos em Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "preview",
+      "route": "/pt/plano-de-pagamento/",
+      "title": "Plano de pagamento Lorévia Collection | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/",
+      "title": "Lorévia Collection by DECA | Waterfront apartments in Al Zorah, Ajman",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/studios-al-zorah-ajman/",
+      "title": "Studios in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/one-bedroom-apartments-al-zorah-ajman/",
+      "title": "1 bedroom apartments in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/two-bedroom-apartments-al-zorah-ajman/",
+      "title": "2 bedroom apartments in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/payment-plan/",
+      "title": "Lorévia Collection payment plan | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/fr/investir-al-zorah-ajman/",
+      "title": "Lorévia Collection DECA | Investir à Al Zorah, Ajman",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/fr/studios-al-zorah-ajman/",
+      "title": "Studios à Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/fr/appartements-1-chambre-al-zorah-ajman/",
+      "title": "Appartements 1 chambre à Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/fr/appartements-2-chambres-al-zorah-ajman/",
+      "title": "Appartements 2 chambres à Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/fr/plan-de-paiement/",
+      "title": "Plan de paiement Lorévia Collection | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/es/comprar-desde-espana-al-zorah-ajman/",
+      "title": "Comprar desde España en Al Zorah, Ajman | Lorévia Collection",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/es/estudios-al-zorah-ajman/",
+      "title": "Estudios en Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/es/apartamentos-1-dormitorio-al-zorah-ajman/",
+      "title": "Apartamentos de 1 dormitorio en Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/es/apartamentos-2-dormitorios-al-zorah-ajman/",
+      "title": "Apartamentos de 2 dormitorios en Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/es/plan-de-pago/",
+      "title": "Plan de pago de Lorévia Collection | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/nl/vastgoed-kopen-al-zorah-ajman/",
+      "title": "Vastgoed kopen in Al Zorah, Ajman | Lorévia Collection",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/nl/studios-al-zorah-ajman/",
+      "title": "Studio’s in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/nl/appartementen-1-slaapkamer-al-zorah-ajman/",
+      "title": "Appartementen met 1 slaapkamer in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/nl/appartementen-2-slaapkamers-al-zorah-ajman/",
+      "title": "Appartementen met 2 slaapkamers in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/nl/betalingsplan/",
+      "title": "Betalingsplan Lorévia Collection | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/de/immobilien-kaufen-al-zorah-ajman/",
+      "title": "Immobilien in Al Zorah, Ajman kaufen | Lorévia Collection",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/de/studios-al-zorah-ajman/",
+      "title": "Studios in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/de/apartments-1-schlafzimmer-al-zorah-ajman/",
+      "title": "Apartments mit 1 Schlafzimmer in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/de/apartments-2-schlafzimmer-al-zorah-ajman/",
+      "title": "Apartments mit 2 Schlafzimmern in Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/de/zahlungsplan/",
+      "title": "Zahlungsplan für Lorévia Collection | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/pt/comprar-imovel-al-zorah-ajman/",
+      "title": "Comprar imóvel em Al Zorah, Ajman | Lorévia Collection",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/pt/estudios-al-zorah-ajman/",
+      "title": "Estúdios em Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/pt/apartamentos-1-quarto-al-zorah-ajman/",
+      "title": "Apartamentos de 1 quarto em Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/pt/apartamentos-2-quartos-al-zorah-ajman/",
+      "title": "Apartamentos de 2 quartos em Al Zorah, Ajman | DECA",
+      "outbound_links": 0,
+      "passed": true
+    },
+    {
+      "mode": "release",
+      "route": "/pt/plano-de-pagamento/",
+      "title": "Plano de pagamento Lorévia Collection | DECA",
+      "outbound_links": 0,
+      "passed": true
+    }
+  ],
+  "errors": []
+}
